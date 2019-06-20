@@ -730,35 +730,35 @@
 /* backgrounds */
 
 .slide-1 {
-    background-image: url('/borderwall1.png');
+    background-image: url('../images/borderwall1.png');
 }
 
 .slide-2 {
-    background-image: url('/borderwall2.png');
+    background-image: url('../images/borderwall2.png');
 }
 
 .slide-3 {
-    background-image: url('/borderwall3.png');
+    background-image: url('/images/borderwall3.png');
 }
 
 .slide-4 {
-    background-image: url('/borderwall4.png');
+    background-image: url('/images/borderwall4.png');
 }
 
 .slide-5 {
-    background-image: url('/borderwall5.png');
+    background-image: url('/images/borderwall5.png');
 }
 
 .slide-6 {
-    background-image: url('/borderwall6.png');
+    background-image: url('/images/borderwall6.png');
 }
 
 .slide-7 {
-    background-image: url('/borderwall7.png');
+    background-image: url('/images/borderwall7.png');
 }
 
 .slide-8 {
-    background-image: url('/borderwall8.png');
+    background-image: url('/images/borderwall8.png');
 }
 
 /*===================
